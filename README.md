@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LednarConcept
+- 👀 I’m interested in making games and concepts
+- 🌱 I’m currently learning godot, html, typescript, java
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me (Discord: .lednar)
